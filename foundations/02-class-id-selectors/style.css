@@ -1,27 +1,18 @@
-.background {
-    background-color: rgb(216, 144, 144);
+.odd {
+    background-color: rgb(229, 97, 97);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.fonts {
-    font-family: Verdana, DejaVu Sans, sans-serif
-}
-
-.text_blue {
-    color: rgb(4, 4, 239);
-}
-
-.text_large {
+.two {
+    color: rgb(36, 36, 233);
     font-size: 36px;
 }
 
-.text_medium {
+.font_adjustment {
     font-size: 24px;
 }
 
-.background_green {
-    background-color: rgba(168, 237, 168, 0.865);
-}
-
-.text_bold {
+.four {
+    background-color: rgb(110, 237, 110);
     font-weight: bold;
 }
